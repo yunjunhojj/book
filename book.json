@@ -1,240 +1,245 @@
 {
-  "id": "building-browser-from-scratch-ko",
-  "title": "직접 만들어보며 이해하는 브라우저의 동작 원리",
-  "subtitle": "프론트엔드 개발자를 위한 브라우저 내부 구조 실습서",
   "author": "윤준호",
-  "language": "ko",
-  "description": "작은 브라우저를 TypeScript로 직접 만들어보면서 HTML 파싱, DOM, CSSOM, 렌더 트리, 레이아웃, 페인트, 이벤트 루프, 보안 모델을 흐름 중심으로 이해하는 전자책입니다.",
-  "coverImage": "",
   "chapters": [
     {
       "id": "chapter-0",
-      "title": "목차 및 개요",
-      "path": "ebook/00-목차-및-개요.md",
       "order": 1,
+      "path": "ebook/00-목차-및-개요.md",
       "status": "draft",
-      "wordCount": 0,
-      "updatedAt": "2026-05-24T00:00:00.000Z"
+      "title": "목차 및 개요",
+      "updatedAt": "2026-05-24T00:00:00.000Z",
+      "wordCount": 0
     },
     {
       "id": "chapter-1",
-      "title": "브라우저를 직접 만든다는 것",
-      "path": "ebook/01-브라우저를-직접-만든다는-것.md",
       "order": 2,
+      "path": "ebook/01-브라우저를-직접-만든다는-것.md",
       "status": "draft",
-      "wordCount": 0,
-      "updatedAt": "2026-05-24T00:00:00.000Z"
+      "title": "브라우저를 직접 만든다는 것",
+      "updatedAt": "2026-05-24T00:00:00.000Z",
+      "wordCount": 0
     },
     {
       "id": "chapter-2",
-      "title": "URL을 입력하면 무슨 일이 일어날까",
-      "path": "ebook/02-URL을-입력하면-무슨-일이-일어날까.md",
       "order": 3,
+      "path": "ebook/02-URL을-입력하면-무슨-일이-일어날까.md",
       "status": "draft",
-      "wordCount": 0,
-      "updatedAt": "2026-05-24T00:00:00.000Z"
+      "title": "URL을 입력하면 무슨 일이 일어날까",
+      "updatedAt": "2026-05-24T00:00:00.000Z",
+      "wordCount": 0
     },
     {
       "id": "chapter-3",
-      "title": "HTML 파서 만들기",
-      "path": "ebook/03-HTML-파서-만들기.md",
       "order": 4,
+      "path": "ebook/03-HTML-파서-만들기.md",
       "status": "draft",
-      "wordCount": 0,
-      "updatedAt": "2026-05-24T00:00:00.000Z"
+      "title": "HTML 파서 만들기",
+      "updatedAt": "2026-05-24T00:00:00.000Z",
+      "wordCount": 0
     },
     {
       "id": "chapter-4",
-      "title": "DOM 트리 만들기",
-      "path": "ebook/04-DOM-트리-만들기.md",
       "order": 5,
+      "path": "ebook/04-DOM-트리-만들기.md",
       "status": "draft",
-      "wordCount": 0,
-      "updatedAt": "2026-05-24T00:00:00.000Z"
+      "title": "DOM 트리 만들기",
+      "updatedAt": "2026-05-24T00:00:00.000Z",
+      "wordCount": 0
     },
     {
       "id": "chapter-5",
-      "title": "CSS 파서 만들기",
-      "path": "ebook/05-CSS-파서-만들기.md",
       "order": 6,
+      "path": "ebook/05-CSS-파서-만들기.md",
       "status": "draft",
-      "wordCount": 0,
-      "updatedAt": "2026-05-24T00:00:00.000Z"
+      "title": "CSS 파서 만들기",
+      "updatedAt": "2026-05-24T00:00:00.000Z",
+      "wordCount": 0
     },
     {
       "id": "chapter-6",
-      "title": "CSS 선택자 매칭하기",
-      "path": "ebook/06-CSS-선택자-매칭하기.md",
       "order": 7,
+      "path": "ebook/06-CSS-선택자-매칭하기.md",
       "status": "draft",
-      "wordCount": 0,
-      "updatedAt": "2026-05-24T00:00:00.000Z"
+      "title": "CSS 선택자 매칭하기",
+      "updatedAt": "2026-05-24T00:00:00.000Z",
+      "wordCount": 0
     },
     {
       "id": "chapter-7",
-      "title": "Computed Style 만들기",
-      "path": "ebook/07-Computed-Style-만들기.md",
       "order": 8,
+      "path": "ebook/07-Computed-Style-만들기.md",
       "status": "draft",
-      "wordCount": 0,
-      "updatedAt": "2026-05-24T00:00:00.000Z"
+      "title": "Computed Style 만들기",
+      "updatedAt": "2026-05-24T00:00:00.000Z",
+      "wordCount": 0
     },
     {
       "id": "chapter-8",
-      "title": "Render Tree 만들기",
-      "path": "ebook/08-Render-Tree-만들기.md",
       "order": 9,
+      "path": "ebook/08-Render-Tree-만들기.md",
       "status": "draft",
-      "wordCount": 0,
-      "updatedAt": "2026-05-24T00:00:00.000Z"
+      "title": "Render Tree 만들기",
+      "updatedAt": "2026-05-24T00:00:00.000Z",
+      "wordCount": 0
     },
     {
       "id": "chapter-9",
-      "title": "Layout 계산하기",
-      "path": "ebook/09-Layout-계산하기.md",
       "order": 10,
+      "path": "ebook/09-Layout-계산하기.md",
       "status": "draft",
-      "wordCount": 0,
-      "updatedAt": "2026-05-24T00:00:00.000Z"
+      "title": "Layout 계산하기",
+      "updatedAt": "2026-05-24T00:00:00.000Z",
+      "wordCount": 0
     },
     {
       "id": "chapter-10",
-      "title": "Paint 구현하기",
-      "path": "ebook/10-Paint-구현하기.md",
       "order": 11,
+      "path": "ebook/10-Paint-구현하기.md",
       "status": "draft",
-      "wordCount": 0,
-      "updatedAt": "2026-05-24T00:00:00.000Z"
+      "title": "Paint 구현하기",
+      "updatedAt": "2026-05-24T00:00:00.000Z",
+      "wordCount": 0
     },
     {
       "id": "chapter-11",
-      "title": "Reflow와 Repaint 이해하기",
-      "path": "ebook/11-Reflow와-Repaint-이해하기.md",
       "order": 12,
+      "path": "ebook/11-Reflow와-Repaint-이해하기.md",
       "status": "draft",
-      "wordCount": 0,
-      "updatedAt": "2026-05-24T00:00:00.000Z"
+      "title": "Reflow와 Repaint 이해하기",
+      "updatedAt": "2026-05-24T00:00:00.000Z",
+      "wordCount": 0
     },
     {
       "id": "chapter-12",
-      "title": "JavaScript 실행 흐름 이해하기",
-      "path": "ebook/12-JavaScript-실행-흐름-이해하기.md",
       "order": 13,
+      "path": "ebook/12-JavaScript-실행-흐름-이해하기.md",
       "status": "draft",
-      "wordCount": 0,
-      "updatedAt": "2026-05-24T00:00:00.000Z"
+      "title": "JavaScript 실행 흐름 이해하기",
+      "updatedAt": "2026-05-24T00:00:00.000Z",
+      "wordCount": 0
     },
     {
       "id": "chapter-13",
-      "title": "이벤트 루프 시뮬레이션하기",
-      "path": "ebook/13-이벤트-루프-시뮬레이션하기.md",
       "order": 14,
+      "path": "ebook/13-이벤트-루프-시뮬레이션하기.md",
       "status": "draft",
-      "wordCount": 0,
-      "updatedAt": "2026-05-24T00:00:00.000Z"
+      "title": "이벤트 루프 시뮬레이션하기",
+      "updatedAt": "2026-05-24T00:00:00.000Z",
+      "wordCount": 0
     },
     {
       "id": "chapter-14",
-      "title": "이벤트 전파 구현하기",
-      "path": "ebook/14-이벤트-전파-구현하기.md",
       "order": 15,
+      "path": "ebook/14-이벤트-전파-구현하기.md",
       "status": "draft",
-      "wordCount": 0,
-      "updatedAt": "2026-05-24T00:00:00.000Z"
+      "title": "이벤트 전파 구현하기",
+      "updatedAt": "2026-05-24T00:00:00.000Z",
+      "wordCount": 0
     },
     {
       "id": "chapter-15",
-      "title": "쿠키와 스토리지 구현하기",
-      "path": "ebook/15-쿠키와-스토리지-구현하기.md",
       "order": 16,
+      "path": "ebook/15-쿠키와-스토리지-구현하기.md",
       "status": "draft",
-      "wordCount": 0,
-      "updatedAt": "2026-05-24T00:00:00.000Z"
+      "title": "쿠키와 스토리지 구현하기",
+      "updatedAt": "2026-05-24T00:00:00.000Z",
+      "wordCount": 0
     },
     {
       "id": "chapter-16",
-      "title": "Same-Origin Policy와 CORS 이해하기",
-      "path": "ebook/16-Same-Origin-Policy와-CORS-이해하기.md",
       "order": 17,
+      "path": "ebook/16-Same-Origin-Policy와-CORS-이해하기.md",
       "status": "draft",
-      "wordCount": 0,
-      "updatedAt": "2026-05-24T00:00:00.000Z"
+      "title": "Same-Origin Policy와 CORS 이해하기",
+      "updatedAt": "2026-05-24T00:00:00.000Z",
+      "wordCount": 0
     },
     {
       "id": "chapter-17",
-      "title": "멀티 프로세스 구조 이해하기",
-      "path": "ebook/17-멀티-프로세스-구조-이해하기.md",
       "order": 18,
+      "path": "ebook/17-멀티-프로세스-구조-이해하기.md",
       "status": "draft",
-      "wordCount": 0,
-      "updatedAt": "2026-05-24T00:00:00.000Z"
+      "title": "멀티 프로세스 구조 이해하기",
+      "updatedAt": "2026-05-24T00:00:00.000Z",
+      "wordCount": 0
     },
     {
       "id": "chapter-18",
-      "title": "Mini DevTools 만들기",
-      "path": "ebook/18-Mini-DevTools-만들기.md",
       "order": 19,
+      "path": "ebook/18-Mini-DevTools-만들기.md",
       "status": "draft",
-      "wordCount": 0,
-      "updatedAt": "2026-05-24T00:00:00.000Z"
+      "title": "Mini DevTools 만들기",
+      "updatedAt": "2026-05-24T00:00:00.000Z",
+      "wordCount": 0
     },
     {
       "id": "chapter-19",
-      "title": "React 렌더링과 브라우저 렌더링",
-      "path": "ebook/19-React-렌더링과-브라우저-렌더링.md",
       "order": 20,
+      "path": "ebook/19-React-렌더링과-브라우저-렌더링.md",
       "status": "draft",
-      "wordCount": 0,
-      "updatedAt": "2026-05-24T00:00:00.000Z"
+      "title": "React 렌더링과 브라우저 렌더링",
+      "updatedAt": "2026-05-24T00:00:00.000Z",
+      "wordCount": 0
     },
     {
       "id": "chapter-20",
-      "title": "Next.js와 Hydration",
-      "path": "ebook/20-Next.js와-Hydration.md",
       "order": 21,
+      "path": "ebook/20-Next.js와-Hydration.md",
       "status": "draft",
-      "wordCount": 0,
-      "updatedAt": "2026-05-24T00:00:00.000Z"
+      "title": "Next.js와 Hydration",
+      "updatedAt": "2026-05-24T00:00:00.000Z",
+      "wordCount": 0
     },
     {
       "id": "chapter-21",
-      "title": "웹 성능 최적화",
-      "path": "ebook/21-웹-성능-최적화.md",
       "order": 22,
+      "path": "ebook/21-웹-성능-최적화.md",
       "status": "draft",
-      "wordCount": 0,
-      "updatedAt": "2026-05-24T00:00:00.000Z"
+      "title": "웹 성능 최적화",
+      "updatedAt": "2026-05-24T00:00:00.000Z",
+      "wordCount": 0
     },
     {
       "id": "chapter-22",
-      "title": "Mini Chrome 완성하기",
-      "path": "ebook/22-Mini-Chrome-완성하기.md",
       "order": 23,
+      "path": "ebook/22-Mini-Chrome-완성하기.md",
       "status": "draft",
-      "wordCount": 0,
-      "updatedAt": "2026-05-24T00:00:00.000Z"
+      "title": "Mini Chrome 완성하기",
+      "updatedAt": "2026-05-24T00:00:00.000Z",
+      "wordCount": 0
     },
     {
       "id": "chapter-23",
-      "title": "진짜 브라우저와 비교하기",
-      "path": "ebook/23-진짜-브라우저와-비교하기.md",
       "order": 24,
+      "path": "ebook/23-진짜-브라우저와-비교하기.md",
       "status": "draft",
-      "wordCount": 0,
-      "updatedAt": "2026-05-24T00:00:00.000Z"
+      "title": "진짜 브라우저와 비교하기",
+      "updatedAt": "2026-05-24T00:00:00.000Z",
+      "wordCount": 0
     }
   ],
-  "theme": {
-    "fontFamily": "system-ui",
-    "codeTheme": "github-dark",
-    "pageWidth": 720,
-    "lineHeight": 1.65,
-    "headingStyle": "numbered"
-  },
+  "coverImage": "",
+  "description": "작은 브라우저를 TypeScript로 직접 만들어보면서 HTML 파싱, DOM, CSSOM, 렌더 트리, 레이아웃, 페인트, 이벤트 루프, 보안 모델을 흐름 중심으로 이해하는 전자책입니다.",
   "exportConfig": {
-    "formats": ["markdown", "html", "epub", "pdf"],
-    "includeToc": true,
+    "formats": [
+      "markdown",
+      "html",
+      "epub",
+      "pdf"
+    ],
     "includeCover": false,
+    "includeToc": true,
     "outputDir": "exports"
-  }
+  },
+  "id": "building-browser-from-scratch-ko",
+  "language": "ko",
+  "subtitle": "프론트엔드 개발자를 위한 브라우저 내부 구조 실습서",
+  "theme": {
+    "codeTheme": "github-dark",
+    "fontFamily": "system-ui",
+    "headingStyle": "numbered",
+    "lineHeight": 1.65,
+    "pageWidth": 720
+  },
+  "title": "직접 만들어보며 이해하는 브라우저의 동작 원리"
 }
