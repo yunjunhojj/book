@@ -3,219 +3,219 @@
   "chapters": [
     {
       "id": "chapter-0",
-      "order": 1,
-      "path": "ebook/00-목차-및-개요.md",
-      "status": "draft",
       "title": "목차 및 개요",
-      "updatedAt": "2026-05-24T00:00:00.000Z",
-      "wordCount": 0
+      "path": "ebook/00-목차-및-개요.md",
+      "order": 1,
+      "status": "draft",
+      "wordCount": 375,
+      "updatedAt": "2026-05-24T07:03:22.473Z"
     },
     {
       "id": "chapter-1",
-      "order": 2,
-      "path": "ebook/01-브라우저를-직접-만든다는-것.md",
-      "status": "draft",
       "title": "브라우저를 직접 만든다는 것",
-      "updatedAt": "2026-05-24T00:00:00.000Z",
-      "wordCount": 0
+      "path": "ebook/01-브라우저를-직접-만든다는-것.md",
+      "order": 2,
+      "status": "draft",
+      "wordCount": 213,
+      "updatedAt": "2026-05-24T00:00:00.000Z"
     },
     {
       "id": "chapter-2",
-      "order": 3,
-      "path": "ebook/02-URL을-입력하면-무슨-일이-일어날까.md",
-      "status": "draft",
       "title": "URL을 입력하면 무슨 일이 일어날까",
-      "updatedAt": "2026-05-24T00:00:00.000Z",
-      "wordCount": 0
+      "path": "ebook/02-URL을-입력하면-무슨-일이-일어날까.md",
+      "order": 3,
+      "status": "draft",
+      "wordCount": 145,
+      "updatedAt": "2026-05-24T00:00:00.000Z"
     },
     {
       "id": "chapter-3",
-      "order": 4,
-      "path": "ebook/03-HTML-파서-만들기.md",
-      "status": "draft",
       "title": "HTML 파서 만들기",
-      "updatedAt": "2026-05-24T00:00:00.000Z",
-      "wordCount": 0
+      "path": "ebook/03-HTML-파서-만들기.md",
+      "order": 4,
+      "status": "draft",
+      "wordCount": 143,
+      "updatedAt": "2026-05-24T00:00:00.000Z"
     },
     {
       "id": "chapter-4",
-      "order": 5,
-      "path": "ebook/04-DOM-트리-만들기.md",
-      "status": "draft",
       "title": "DOM 트리 만들기",
-      "updatedAt": "2026-05-24T00:00:00.000Z",
-      "wordCount": 0
+      "path": "ebook/04-DOM-트리-만들기.md",
+      "order": 5,
+      "status": "draft",
+      "wordCount": 120,
+      "updatedAt": "2026-05-24T00:00:00.000Z"
     },
     {
       "id": "chapter-5",
-      "order": 6,
-      "path": "ebook/05-CSS-파서-만들기.md",
-      "status": "draft",
       "title": "CSS 파서 만들기",
-      "updatedAt": "2026-05-24T00:00:00.000Z",
-      "wordCount": 0
+      "path": "ebook/05-CSS-파서-만들기.md",
+      "order": 6,
+      "status": "draft",
+      "wordCount": 84,
+      "updatedAt": "2026-05-24T00:00:00.000Z"
     },
     {
       "id": "chapter-6",
-      "order": 7,
-      "path": "ebook/06-CSS-선택자-매칭하기.md",
-      "status": "draft",
       "title": "CSS 선택자 매칭하기",
-      "updatedAt": "2026-05-24T00:00:00.000Z",
-      "wordCount": 0
+      "path": "ebook/06-CSS-선택자-매칭하기.md",
+      "order": 7,
+      "status": "draft",
+      "wordCount": 103,
+      "updatedAt": "2026-05-24T00:00:00.000Z"
     },
     {
       "id": "chapter-7",
-      "order": 8,
-      "path": "ebook/07-Computed-Style-만들기.md",
-      "status": "draft",
       "title": "Computed Style 만들기",
-      "updatedAt": "2026-05-24T00:00:00.000Z",
-      "wordCount": 0
+      "path": "ebook/07-Computed-Style-만들기.md",
+      "order": 8,
+      "status": "draft",
+      "wordCount": 96,
+      "updatedAt": "2026-05-24T00:00:00.000Z"
     },
     {
       "id": "chapter-8",
-      "order": 9,
-      "path": "ebook/08-Render-Tree-만들기.md",
-      "status": "draft",
       "title": "Render Tree 만들기",
-      "updatedAt": "2026-05-24T00:00:00.000Z",
-      "wordCount": 0
+      "path": "ebook/08-Render-Tree-만들기.md",
+      "order": 9,
+      "status": "draft",
+      "wordCount": 78,
+      "updatedAt": "2026-05-24T00:00:00.000Z"
     },
     {
       "id": "chapter-9",
-      "order": 10,
-      "path": "ebook/09-Layout-계산하기.md",
-      "status": "draft",
       "title": "Layout 계산하기",
-      "updatedAt": "2026-05-24T00:00:00.000Z",
-      "wordCount": 0
+      "path": "ebook/09-Layout-계산하기.md",
+      "order": 10,
+      "status": "draft",
+      "wordCount": 96,
+      "updatedAt": "2026-05-24T00:00:00.000Z"
     },
     {
       "id": "chapter-10",
-      "order": 11,
-      "path": "ebook/10-Paint-구현하기.md",
-      "status": "draft",
       "title": "Paint 구현하기",
-      "updatedAt": "2026-05-24T00:00:00.000Z",
-      "wordCount": 0
+      "path": "ebook/10-Paint-구현하기.md",
+      "order": 11,
+      "status": "draft",
+      "wordCount": 70,
+      "updatedAt": "2026-05-24T00:00:00.000Z"
     },
     {
       "id": "chapter-11",
-      "order": 12,
-      "path": "ebook/11-Reflow와-Repaint-이해하기.md",
-      "status": "draft",
       "title": "Reflow와 Repaint 이해하기",
-      "updatedAt": "2026-05-24T00:00:00.000Z",
-      "wordCount": 0
+      "path": "ebook/11-Reflow와-Repaint-이해하기.md",
+      "order": 12,
+      "status": "draft",
+      "wordCount": 82,
+      "updatedAt": "2026-05-24T00:00:00.000Z"
     },
     {
       "id": "chapter-12",
-      "order": 13,
-      "path": "ebook/12-JavaScript-실행-흐름-이해하기.md",
-      "status": "draft",
       "title": "JavaScript 실행 흐름 이해하기",
-      "updatedAt": "2026-05-24T00:00:00.000Z",
-      "wordCount": 0
+      "path": "ebook/12-JavaScript-실행-흐름-이해하기.md",
+      "order": 13,
+      "status": "draft",
+      "wordCount": 99,
+      "updatedAt": "2026-05-24T00:00:00.000Z"
     },
     {
       "id": "chapter-13",
-      "order": 14,
-      "path": "ebook/13-이벤트-루프-시뮬레이션하기.md",
-      "status": "draft",
       "title": "이벤트 루프 시뮬레이션하기",
-      "updatedAt": "2026-05-24T00:00:00.000Z",
-      "wordCount": 0
+      "path": "ebook/13-이벤트-루프-시뮬레이션하기.md",
+      "order": 14,
+      "status": "draft",
+      "wordCount": 73,
+      "updatedAt": "2026-05-24T00:00:00.000Z"
     },
     {
       "id": "chapter-14",
-      "order": 15,
-      "path": "ebook/14-이벤트-전파-구현하기.md",
-      "status": "draft",
       "title": "이벤트 전파 구현하기",
-      "updatedAt": "2026-05-24T00:00:00.000Z",
-      "wordCount": 0
+      "path": "ebook/14-이벤트-전파-구현하기.md",
+      "order": 15,
+      "status": "draft",
+      "wordCount": 66,
+      "updatedAt": "2026-05-24T00:00:00.000Z"
     },
     {
       "id": "chapter-15",
-      "order": 16,
-      "path": "ebook/15-쿠키와-스토리지-구현하기.md",
-      "status": "draft",
       "title": "쿠키와 스토리지 구현하기",
-      "updatedAt": "2026-05-24T00:00:00.000Z",
-      "wordCount": 0
+      "path": "ebook/15-쿠키와-스토리지-구현하기.md",
+      "order": 16,
+      "status": "draft",
+      "wordCount": 70,
+      "updatedAt": "2026-05-24T00:00:00.000Z"
     },
     {
       "id": "chapter-16",
-      "order": 17,
-      "path": "ebook/16-Same-Origin-Policy와-CORS-이해하기.md",
-      "status": "draft",
       "title": "Same-Origin Policy와 CORS 이해하기",
-      "updatedAt": "2026-05-24T00:00:00.000Z",
-      "wordCount": 0
+      "path": "ebook/16-Same-Origin-Policy와-CORS-이해하기.md",
+      "order": 17,
+      "status": "draft",
+      "wordCount": 73,
+      "updatedAt": "2026-05-24T00:00:00.000Z"
     },
     {
       "id": "chapter-17",
-      "order": 18,
-      "path": "ebook/17-멀티-프로세스-구조-이해하기.md",
-      "status": "draft",
       "title": "멀티 프로세스 구조 이해하기",
-      "updatedAt": "2026-05-24T00:00:00.000Z",
-      "wordCount": 0
+      "path": "ebook/17-멀티-프로세스-구조-이해하기.md",
+      "order": 18,
+      "status": "draft",
+      "wordCount": 101,
+      "updatedAt": "2026-05-24T00:00:00.000Z"
     },
     {
       "id": "chapter-18",
-      "order": 19,
-      "path": "ebook/18-Mini-DevTools-만들기.md",
-      "status": "draft",
       "title": "Mini DevTools 만들기",
-      "updatedAt": "2026-05-24T00:00:00.000Z",
-      "wordCount": 0
+      "path": "ebook/18-Mini-DevTools-만들기.md",
+      "order": 19,
+      "status": "draft",
+      "wordCount": 86,
+      "updatedAt": "2026-05-24T00:00:00.000Z"
     },
     {
       "id": "chapter-19",
-      "order": 20,
-      "path": "ebook/19-React-렌더링과-브라우저-렌더링.md",
-      "status": "draft",
       "title": "React 렌더링과 브라우저 렌더링",
-      "updatedAt": "2026-05-24T00:00:00.000Z",
-      "wordCount": 0
+      "path": "ebook/19-React-렌더링과-브라우저-렌더링.md",
+      "order": 20,
+      "status": "draft",
+      "wordCount": 91,
+      "updatedAt": "2026-05-24T00:00:00.000Z"
     },
     {
       "id": "chapter-20",
-      "order": 21,
-      "path": "ebook/20-Next.js와-Hydration.md",
-      "status": "draft",
       "title": "Next.js와 Hydration",
-      "updatedAt": "2026-05-24T00:00:00.000Z",
-      "wordCount": 0
+      "path": "ebook/20-Next.js와-Hydration.md",
+      "order": 21,
+      "status": "draft",
+      "wordCount": 79,
+      "updatedAt": "2026-05-24T00:00:00.000Z"
     },
     {
       "id": "chapter-21",
-      "order": 22,
-      "path": "ebook/21-웹-성능-최적화.md",
-      "status": "draft",
       "title": "웹 성능 최적화",
-      "updatedAt": "2026-05-24T00:00:00.000Z",
-      "wordCount": 0
+      "path": "ebook/21-웹-성능-최적화.md",
+      "order": 22,
+      "status": "draft",
+      "wordCount": 89,
+      "updatedAt": "2026-05-24T00:00:00.000Z"
     },
     {
       "id": "chapter-22",
-      "order": 23,
-      "path": "ebook/22-Mini-Chrome-완성하기.md",
-      "status": "draft",
       "title": "Mini Chrome 완성하기",
-      "updatedAt": "2026-05-24T00:00:00.000Z",
-      "wordCount": 0
+      "path": "ebook/22-Mini-Chrome-완성하기.md",
+      "order": 23,
+      "status": "draft",
+      "wordCount": 80,
+      "updatedAt": "2026-05-24T00:00:00.000Z"
     },
     {
       "id": "chapter-23",
-      "order": 24,
-      "path": "ebook/23-진짜-브라우저와-비교하기.md",
-      "status": "draft",
       "title": "진짜 브라우저와 비교하기",
-      "updatedAt": "2026-05-24T00:00:00.000Z",
-      "wordCount": 0
+      "path": "ebook/23-진짜-브라우저와-비교하기.md",
+      "order": 24,
+      "status": "draft",
+      "wordCount": 225,
+      "updatedAt": "2026-05-24T00:00:00.000Z"
     }
   ],
   "coverImage": "",
